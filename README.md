@@ -6,5 +6,3 @@ Download eclipse from http://www.eclipse.org
 Import the folder into eclipse.
 
 Run/Compile the program.
-
-![ScreenShots] (src/ScreenShotScreen Shot 2015-03-09 at 5.55.11 PM.png)
