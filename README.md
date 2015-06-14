@@ -7,4 +7,4 @@ Import the folder into eclipse.
 
 Run/Compile the program.
 
-![ScreenShots] (Screen Shot 2015-03-09 at 5.55.11 PM.png)
+![ScreenShots] (src/ScreenShotScreen Shot 2015-03-09 at 5.55.11 PM.png)
